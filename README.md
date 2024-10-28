@@ -1,8 +1,8 @@
 # Unreal Engine Rendering Analysis
 
-A series of articles based on UE4.25-4.27 versions, analyzing the rendering system and engine pipelines in Unreal Engine.
+A translated series of articles based on UE4.25-4.27 versions, analyzing the rendering system and engine pipelines in Unreal Engine.
 
-The reproduced articles, originally published on cnblogs.com, are semi-manual translations of the original articles with edits and will be supplemented with additional analysis topics in the future.
+These reproduced articles include some edits and are based on machine translations with further modifications. Originally published on cnblogs.com, the articles will be supplemented with additional analysis topics in the future.
 
 ## Overview. Ready-to-read topics:
 
