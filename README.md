@@ -1,8 +1,8 @@
 # Unreal Engine Rendering Analysis
 
-A series of articles based on UE4.25-4.27 versions, analyzing the rendering system and engine pipelines in Unreal Engine.
+A series of articles mostly based on UE4.25-4.27 versions, analyzing the rendering system, features and engine pipelines in Unreal Engine.
 
-These reproduced articles include some edits and are based on machine translations with further modifications. Originally published on cnblogs.com, the articles will be supplemented with additional analysis topics in the future.
+These reproduced articles are based on machine translations and includes some edits and mdifications. Originally published on cnblogs.com, the articles will be supplemented with additional analysis topics in the future.
 
 ## Overview. Ready-to-read topics:
 
@@ -33,3 +33,5 @@ These reproduced articles include some edits and are based on machine translatio
 [(12) - Mobile Special Part 2 GPU Architecture](https://github.com/pe7yu/Unreal-Engine_Rendering-Analysis/blob/main/Analysis%20of%20Unreal%20Rendering%20System%20(12)%20-%20Mobile%20Special%20Part%202%20(GPU%20Architecture%20and%20Mechanism)%20English.pdf)
 
 [(12) - Mobile Special Part 3 Rendering Optimization](https://github.com/pe7yu/Unreal-Engine_Rendering-Analysis/blob/main/Analysis%20of%20Unreal%20Rendering%20System%20(12)%20-%20Mobile%20Terminal%20Special%20Part%203%20(Rendering%20Optimization)%20English.pdf)
+
+[Author on Cnblogs](https://www.cnblogs.com/timlly)
